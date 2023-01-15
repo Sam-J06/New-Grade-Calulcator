@@ -1,0 +1,5 @@
+C:\Users\Sam\source\repos\Total Grade Average calculator\Total Grade Average calculator\bin\Release\net6.0\publish\Total Grade Average calculator.exe
+C:\Users\Sam\source\repos\Total Grade Average calculator\Total Grade Average calculator\bin\Release\net6.0\publish\Total Grade Average calculator.dll
+C:\Users\Sam\source\repos\Total Grade Average calculator\Total Grade Average calculator\bin\Release\net6.0\publish\Total Grade Average calculator.deps.json
+C:\Users\Sam\source\repos\Total Grade Average calculator\Total Grade Average calculator\bin\Release\net6.0\publish\Total Grade Average calculator.runtimeconfig.json
+C:\Users\Sam\source\repos\Total Grade Average calculator\Total Grade Average calculator\bin\Release\net6.0\publish\Total Grade Average calculator.pdb
